@@ -9,7 +9,7 @@ const HeroSection = () => {
         <img className="masthead-avatar mb-5" src={HeroImg} alt="..." />
         {/* <!-- Masthead Heading--> */}
         <h1 className="masthead-heading text-uppercase mb-0">
-          Start Bootstrap
+          Chandrakant Kushwah
         </h1>
         {/* <!-- Icon Divider--> */}
         <div className="divider-custom divider-light">

@@ -9,7 +9,7 @@ const NavBar = () => {
       >
         <div className="container">
           <a className="navbar-brand" href="#page-top">
-            Start Bootstrap
+            Chandra K.
           </a>
           <button
             className="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded"
